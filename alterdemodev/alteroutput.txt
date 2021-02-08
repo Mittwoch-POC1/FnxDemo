@@ -1,0 +1,5 @@
+.logon 10.1.0.59/dbc,dbc
+alter table demodev.customer add ch13 char(13);
+drop table demodev.weather;
+.logoff
+.quit
